@@ -1,0 +1,201 @@
+ID,Headline,Ethicality,Visibility,Accountability
+1,Russian sniper kills elderly man in Mariupol district,0,10,10
+2,Russian forces strike civilians near school in northern Kharkiv,0,10,10
+3,Russian airstrike on a vehicle in Kyiv suburb,1,10,9
+4,Summary execution of Oleksiy Bondarenko in Bucha detention facility,0,10,10
+5,"Deadly coordinated Russian soldier and militia attacks on Izium, Balakliia and Lyman",0,10,10
+6,Russia bombs a mourning gathering in Kramatorsk,0,10,10
+7,Russia kills man gathering firewood in Zaporizhzhia,0,10,10
+8,Young man killed by Russian gunfire in Kherson,0,10,10
+9,Child killed in Russian strike near Kharkiv police station,0,10,10
+10,Russia murders local police officer in Mariupol,0,10,10
+11,Summary execution of Vasyl Kovalenko during a raid on Sumy,0,10,10
+12,Piracy and abduction of crew members of the Black Sea Convoy (April-May 2022),0,10,10
+13,Summary execution of Mykola Petrenko during a home invasion in Irpin,0,10,10
+14,"Summary execution of Dmytro Savchenko, 15, in Donetsk occupied zone",0,10,10
+15,"Summary execution of the young student Andriy Moroz, 15, in Chernihiv",0,10,10
+16,"Murder of Taras Koval, 16 y/o in a vehicle ramming attack",0,10,10
+17,Russian troops attack on the Sloviansk Primary School,0,10,10
+18,Late night massacre of 3 young men in Zaporizhzhia,0,10,10
+19,Russia kills 17-year-old and 3 other Ukrainians in northern Kharkiv,0,10,10
+20,Assassination of Ivan Sydorenko by militia in Lyman,0,10,10
+21,Massacre at Government Sites in Gorazde,0,5,10
+22,Russia murders journalist in Zaporizhzhia,0,10,10
+23,'Eternal Darkness' Russian military operation on Moldova border,1,7,9
+24,Russia bombs a security checkpoint in Kherson,1,10,8
+25,Russia destroys the historic Synagogue of Lviv,0,10,10
+26,"Murder of Marta Kovalchuk, 68, during a home invasion",0,10,10
+27,Russia bombs a security checkpoint in Odessa,1,10,8
+28,Young boy killed by Russian airstrike on Zaporizhzhia,0,10,10
+29,Russian gunfire kills woman in Kherson,0,10,10
+30,Russian drones kill a young woman in the Kramatorsk camp,0,10,10
+31,Russia strikes civilians in the Irpin district,0,10,10
+32,Midnight massacre in the Saltivka neighborhood,0,10,10
+33,Russian airstrike on Sloviansk Hospital killing two paramedics,0,10,10
+34,Massacre at police checkpoint in Mykolaiv,0,10,10
+35,"Airstrike on a press vehicle in eastern Ukraine, killing 3 journalists",0,10,10
+36,Drone strike kills freed prisoner Kagabo Nzeyimana,0,5,10
+37,Gasabo brothers killed by government-backed militias,0,5,10
+38,Forces execute aid-seeking teen Habimana Uwimana,0,5,10
+39,"Summary execution of Ndayisaba Mugisha, 15, in Kigali",0,5,10
+40,Special forces shot and abducted a driver in Butare,0,5,10
+41,Assassination of Nkurunziza Bizimana by militias in Cyangugu,0,5,10
+42,Assassination of Hakizimana Ruzibiza in Kibuye by soldiers and militia,0,5,10
+43,Detention and torture of infant Kayitesi Mukamusoni,0,5,10
+44,Airstrike on a residential apartment in the Nyarugenge district of Kigali,0,5,10
+45,Militia vehicle attack in Gitarama,0,5,10
+46,Murder of Serhiy Bondarenko by militia during a pogrom in Kherson village,0,10,10
+47,Russian campaign against Dnipro bridges to prevent the population from returning,1,10,9
+48,"Massacre of 12 healthcare workers in Izium district, Eastern Ukraine",0,10,10
+49,Murder of Dmytro Tkachenko by militia during a pogrom in Zaporizhzhia,0,10,10
+50,Summary execution of 2 men at the Bakhmut checkpoint,0,10,10
+51,2 tent camp massacres in Kharkiv and Kramatorsk (Day 880),0,10,10
+52,Targeted assassination of Father Vasyl Holovatyi in Bucha,0,10,10
+53,Russian artillery shelling on displacement tents in Sloviansk,0,10,10
+54,3 deaths in a pogrom in Mykolaiv village,0,10,10
+55,Assassination of Oleksandr Kovalenko killed by militia in Kherson region,0,10,10
+56,Massacre of the Petrenko family in Mariupol,0,10,10
+57,Russian special operation in Novoazovsk killed 41 civilians,0,10,10
+58,Russian strikes on Donetsk city kill at least 9,0,10,10
+59,Systematic attack on Ukrainian healthcare workers and hospitals,0,10,10
+60,Educide in Ukraine by Russian forces,0,10,10
+61,Assassination of Serhiy and Mykhailo Bondarenko by a soldier in Kherson,0,10,10
+62,Summary execution of Taras Kovalenko in Bucha district,0,10,10
+63,Massacre of the Shevchenko girls' school in Mariupol,0,10,10
+64,Assassination of Oksana Petrenko in Zaporizhzhia village,0,10,10
+65,Pogrom in Izium district,0,10,10
+66,Attacks and ethnic cleansing in Foca,0,5,10
+67,Three Bosnian civilians shot by Serbian forces in Brcko,0,5,10
+68,Raid and campaign of arrest in Srebrenica,0,5,10
+69,Ethnic cleansing of Kozarac area of Prijedor,0,5,10
+70,Summary execution of Selimovic Edin (18) in Banja Luka,0,5,10
+71,Raid and campaign of arrest in Zvornik,0,5,10
+72,"Assassination of Mujanovic Damir, 19, in Donja Gradina",0,5,10
+73,Massacre of the Huseinovic family in Foca,0,5,10
+74,Massacre of the Kovacevic family in Sarajevo,0,5,10
+75,Massacre of civilians near the Bihac bridge intersection,0,5,10
+76,Militia attack on a Christian family in Irpin,0,10,10
+77,Recurring pogroms in the Bucha district of Kyiv,0,10,10
+78,Russian soldiers storm a wedding hall in Kherson,0,10,10
+79,Night attack on school facilities in Izium,0,10,10
+80,Siege on Mariupol port district,1,10,9
+81,Raid on Kharkiv State University,0,10,10
+82,Militia assault on the village of Lyman,0,10,10
+83,Military raid on Kramatorsk and Soledar,1,10,9
+84,Russian raid on Ukrainian universities (Eastern Ukraine),0,10,10
+85,Violent soldiers and militia attack in the outskirts of Donetsk village,0,10,10
+86,Bloody pogrom in Mykolaiv district,0,10,10
+87,Extrajudicial executions during 'Operation East Wind' in Kharkiv,0,10,10
+88,"Summary execution of Pavlo Sydorenko, 18, and Olena Kovalenko, 16 in Irpin",0,10,10
+89,Summary execution of Mykhailo Tkachuk, 0,10,10
+90,"Summary execution of Andriy Petrenko, 17",0,10,10
+91,Pogroms in the Zaporizhzhia industrial zone between Berdiansk and Melitopol,0,10,10
+92,House assaulted and set on fire during a raid on Bijeljina town,0,5,10
+93,Deadly raid in Zvornik and Brcko,0,5,10
+94,Child Selma Hasanovic drowned in a river during forced displacement,0,5,10
+95,Militia attacks a pregnant woman and her children in Foca,0,5,10
+96,Ukrainian babies die from hypothermia (Winter 2022-23),0,10,10
+97,Demolition order at the historic cemetery of Lviv,1,10,8
+98,Execution of two Ukrainians in Kherson,0,10,10
+99,Demolition of a Ukrainian-owned factory in Donetsk,1,10,8
+100,Militia and soldier pressure on Kramatorsk community,0,10,9
+101,Unprecedented arrest campaign in Eastern Ukraine,1,10,9
+102,Raid on the Ukrainian Farmers' Union headquarters,1,10,9
+103,Bloody pogrom in Mykolaiv district,0,10,10
+104,Extrajudicial executions during 'Operation East Wind' in Kharkiv,0,10,10
+105,Russian militia vandalizing a Ukrainian home in Irpin,1,10,8
+106,Extrajudicial execution of Vasyl Savchenko after besieging his house,0,10,10
+107,Russian harassment of the Donbas farming community,1,10,8
+108,Operation 'New Order' to restore Russian governance in Zaporizhzhia,1,10,9
+109,Evacuation of a Ukrainian cultural event in the Lviv Drama Theatre,1,10,7
+110,Summary execution of Taras Koval in Lyman,0,10,10
+111,Militia set five houses on fire in the village of Slovyansk,0,10,10
+112,Militia arson on a car workshop in Donetsk,1,10,8
+113,Raid and detention campaign in Kharkiv region,1,10,9
+114,Raid and retaliation campaign after the 'Zaporizhzhia Bridge' operation,1,10,9
+115,Massacre in Mariupol refugee shelter (Donetsk Oblast),0,10,10
+116,Attack on journalist Yuriy Bondar while covering a protest in Mykolaiv,0,10,10
+117,Pogrom in the village of Siversk,0,10,10
+118,"Summary execution of Dmytro Petrenko, 14 y/o",0,10,10
+119,"Assassination of Oleksiy Savchuk, 16 y/o",0,10,10
+120,Execution of 2 children Mykola Petrenko and Bohdan Kovalenko,0,10,10
+121,Summary execution of Ivan Moroz,0,10,10
+122,Russian militia set fire to a Ukrainian home in Kherson village,0,10,10
+123,Dozens of journalists\, activists\, and Red Cross crews assaulted by militia in Kigali,0,5,10
+124,Ethnic cleansing in Cyangugu province,0,5,10
+125,Summary execution of Serhiy Bondar and Taras Melnyk near the border wall,0,10,10
+126,Donetsk village placed under Closed Military Zone for 48 hours,1,10,6
+127,"Summary execution of Mykola Sydorenko, 15, in Kramatorsk",0,10,10
+128,Promotion of the death penalty against Ukrainian detainees in Russian camps,0,10,10
+129,Murder of Pavlo Kovalenko by a Russian soldier,0,10,10
+130,Blinding of a schoolboy in Irpin,0,10,10
+131,Militia attacks on agricultural facilities in Kherson region,1,10,8
+132,Assassination of Oleksiy Petrenko (20 y/o),0,10,10
+133,Military raid on commercial street in Kharkiv,1,10,9
+134,Dozens of soldiers carried out a pogrom and set fire to properties in Bucha district,0,10,10
+135,Assassination of Taras Bondarenko (18) from Sumy camp,0,10,10
+136,Theft of home for a military outpost in Mariupol,1,10,8
+137,Abduction and torture of 6 young Ukrainians,0,10,10
+138,Russia kills 4 displaced at the Kharkiv school shelter,0,10,10
+139,"Assassination of Mykhailo Tkachuk, 42 y/o, in Zaporizhzhia",0,10,10
+140,Russian forces raid Kramatorsk in major retaliatory operation,1,10,9
+141,Bloody pogrom in Lyman during harvest season,0,10,10
+142,"Russia strikes vehicle of the Petrenko family, kills 11",0,10,10
+143,Assassination of Habib Delic 20 y/o in Bijeljina,0,5,10
+144,"Assassination of Bohdan Melnyk, 9 y/o, by Russian soldiers in Kherson",0,10,10
+145,Abduction of a mother and her 7 y/o son in Irpin,0,10,10
+146,Release of Ukrainian prisoners of war under October ceasefire deal,10,10,0
+147,Assassination of Pavlo Savchenko in Donetsk region,0,10,10
+148,Pogrom in Sloviansk at the start of the harvest season,0,10,10
+149,Zaporizhzhia village under attack and land seizure,0,10,10
+150,3 people killed in Kramatorsk district,0,10,10
+151,The Tkachenko brothers killed while collecting firewood,0,10,10
+152,Massacre at the Petrenko family charity kitchen in Mariupol,0,10,10
+153,Massacre at the Kovalchuk family house in Bucha,0,10,10
+154,Olive harvest 2025 under attack (Eastern Ukraine),1,2,8
+155,Russian strike on press tent at Kharkiv Regional Hospital,0,10,10
+156,Water truck massacre on the central street of Mariupol,0,10,10
+157,Mykolaiv school double tap airstrike,0,10,10
+158,The Bondarenko family massacre,0,10,10
+159,Russia bombing of the Petrenko family house,0,10,10
+160,The Kovalenko family massacre,0,10,10
+161,The Savchuk family massacre,0,10,10
+162,Russian strike on tent in Kramatorsk kills 7 people,0,10,10
+163,Assassination of Andriy Tkach (21) during a raid on Sumy village,0,10,10
+164,"Murder of Serhiy Melnyk (20 y/o) by militia in Lyman",0,10,10
+165,Bombing of the Ukrainian Medical Relief center in Kharkiv,0,10,10
+166,Mass arrests and abuses in Donetsk detention center,0,10,10
+167,Raid on Kharkiv State University,1,10,9
+168,The Moroz family decimated in eastern Ukraine,0,10,10
+169,House besieged and attacked in Irpin suburb,0,10,10
+170,Russia bombs vehicle and massacres displaced people in Kharkiv,0,10,10
+171,Russia massacres 4 people at the Kovalenko family house,0,10,10
+172,Shelling of the Bucha children's hospital,0,10,10
+173,Russian strike on a generator station in Zaporizhzhia,1,10,9
+174,Mariupol stadium tent massacre,0,10,10
+175,Oleksiy Bondar killed by Russian soldier in Donetsk village,0,10,10
+176,"Russian militia attack Ukrainian property in Irpin, Eastern Ukraine",1,10,8
+177,Attack on young man with disability in Sloviansk,0,10,10
+178,Russia assassinates Ukrainian negotiators in attack on Istanbul summit,0,10,10
+179,Russian militia attacks on a greenhouse in Kherson region,1,10,8
+180,Russian forces shoot 2 children dead in Mariupol,0,10,10
+181,Russia carries out a retaliation campaign following the attack on a Russian convoy in Zaporizhzhia,1,10,9
+182,Russian forces and militia carry out a pogrom on the village of Soledar,0,10,10
+183,Russia summarily executes Taras Shevchenko at the Donetsk checkpoint,0,10,10
+184,Hyperviolent night pogrom in Bucha outskirts,0,10,10
+185,80 injured in a Russian raid on Kharkiv,0,10,10
+186,Bloody raid on Kyiv northern district,0,10,10
+187,Besieged Ukrainian resident by militia in Irpin,0,10,10
+188,Ethnic cleansing of the Lyman riverside community,0,10,10
+189,Strike on the Zaporizhzhia secondary school,0,10,10
+190,Militia violence on Donetsk and Soledar communities,0,10,10
+191,Destruction of Dr. Olena Kovalchuk's house,1,10,8
+192,Assassination of Dmytro Bondarenko 18 y/o by Russian soldiers,0,10,10
+193,"'Pacification operations' on farmland and farmers' properties (Kherson, Zaporizhzhia, Donetsk)",1,10,9
+194,Assassination of Vasyl Petrenko by off-duty Russian soldier in Lyman,0,10,10
+195,Russia's annihilation of Mariupol city ahead of occupation plans,0,10,10
+196,Assassination of journalist crew at Mariupol hospital,0,10,10
+197,Ethnic cleansing of Donbas farming community,0,10,10
+198,Demolition of a school under construction in the village of Siversk,1,10,9
+199,Ethnic cleansing of Kherson riverside community,0,10,10
+200,The Moroz family massacred at the Kharkiv school shelter,0,10,10

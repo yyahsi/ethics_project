@@ -1,0 +1,201 @@
+ID,Headline,Ethicality,Visibility,Accountability
+1,Israeli sniper kills elderly in Al-Zaytoun neighborhood,0,10,10
+2,Israel strikes people in front of school in North Gaza,0,10,10
+3,Israeli airstrike on a car in Gaza City,1,10,9
+4,Summary execution of Nour El-Din Fayyad in Jenin Camp,0,10,10
+5,"Deadly coordinated Israeli soldier and settler attacks on Sinjil, Abwein and Jaljaliya",0,10,10
+6,Israel bombs mourning house in Nuseirat,0,10,10
+7,Israel kills man gathering firewood in Khan Younis,0,10,10
+8,Young man killed by Israeli gunfire in Gaza City,0,10,10
+9,Child killed in Israeli strike near Sheikh Radwan police station,0,10,10
+10,Israel murders local police captain in Gaza City,0,10,10
+11,Summary execution of Nayef Firas Ziad Samaro during a raid on Nablus,0,10,10
+12,Piracy and abduction of members of the Global Flotilla (April -May 2026),0,10,10
+13,Summary execution of Abdel Halim Hammad during an home invasion in Silwad,0,10,10
+14,"Summary execution of Ibrahim Al-Khayyat, 15, in Hebron/Al-Khalil",0,10,10
+15,"Summary execution of the young student Youssef Samih Istiyeh, 15, in Nablus",0,10,10
+16,"Murder of Muhammad Majdi al-Ja'bari, 16 y/o in a ramming attack",0,10,10
+17,Israeli settler attacks on the Hammamat Al-Maleh School,0,10,10
+18,Late night massacre of 3 young men in Gaza,0,10,10
+19,Israel kills 17 year-old and 3 other Palestinians in North Gaza,0,10,10
+20,Assassination of Ali Majid Hamadna by settlers in Deir Jarir,0,10,10
+21,Massacre on Government Sites in Nabatieh,0,10,10
+22,Israel murders journalist,0,10,10
+23,'Eternal Darkness' Israeli operation on Lebanon,1,10,9
+24,Israel bombs a security checkpoint in Gaza,1,10,8
+25,Israel destroyed the Rafi-Nia Synagogue in Tehran,0,1,10
+26,"Murder of Sabriya Amin Shamasneh, 68, during a home invasion",0,10,10
+27,Israel bombs a security checkpoint in Gaza,1,10,8
+28,Young boy killed by Israeli airstrike on Gaza,0,10,10
+29,Israeli gunfire kills woman in Gaza,0,10,10
+30,Israeli drones kill a young woman in the Nuseirat camp,0,10,10
+31,Israel strikes civilians in Al-Bureij camp,0,10,10
+32,Midnight massacre in Al-Zaytoun neighborhood,0,10,10
+33,Israeli airstrike on Bint Jbeil Hospital killing two paramedics,0,10,10
+34,Massacre at police checkpoint in Al-Mawasi,0,10,10
+35,"Airstrike on a press car in South Lebanon, killing 3 journalists",0,10,10
+36,Israeli drone strike kills freed captive Ahmad Abu Rida,0,10,10
+37,Qaddoum brothers killed by Israeli-backed militias,0,10,10
+38,Israel executes aid-seeking teen Muqbil Barbakh,0,10,10
+39,"Summary execution of Adham Dahman, 15, in Bethlehem",0,10,10
+40,Special Israeli forces shot and abducted a driver in Nablus,0,10,10
+41,Assassination of Mohammad Faraj al-Malhi by settlers in Harmal,0,10,10
+42,Assassination of Yousri Abu Qubeita in Masafer Yatta by settlers and soldiers,0,10,10
+43,Detention and torture of the baby Jawad Abu Nassar,0,10,10
+44,Airstrike on a residential apartment in the AlTaj Home 1 building in Al-Yarmouk,0,10,10
+45,Police vehicle attack in Nuseirat,0,10,10
+46,Murder of Ameer Motasem Odeh by settlers during a pogrom in Qusra,0,10,10
+47,Israeli campaign against Litani bridges to prevent the population from returning,1,10,9
+48,"Massacre of 12 healthcare workers in Burj Qalaouiyah, South Labanon",0,10,10
+49,Murder of Ameer Motasem Odeh by settlers during a pogrom in Qusra,0,10,10
+50,Summary execution of 2 men at the Za'atara Junction,0,10,10
+51,2 Tent massacres in Gaza City and Nuseirat (Day 880),0,10,10
+52,Targeted assassination of Father Pierre Al-Rai in Qalaya (Lebanon),0,10,10
+53,Israeli artillery shelling on displacement tents in Al Nuseirat R.C.,0,10,10
+54,3 death in a Pogrom in Abu Falah,0,10,10
+55,Assassination of Amir Muhammad Shanaran killed by Luria Luski in Wadi al-Rakhim,0,10,10
+56,Massacre of Al-Qudra family in Khan Younis,0,10,10
+57,Israeli special operation in Nabi Sheet killed 41 Lebaneses,0,10,10
+58,Israeli strikes on Balbeek Eastern Lebanon kill at least 9,0,10,10
+59,Systematic attack on the Lebanese health workers and health care building,0,10,10
+60,Educide in Lebanon by Israel,0,10,10
+61,Assassination of Muhammad and Fahim Taha Muammar by a settler in Qaryut,0,10,10
+62,Summary execution of Muhammad Jihad Masalma (Dura),0,10,10
+63,Massacre of the Shajareh Tayyebeh girls’ school in Minab,0,3,10
+64,Assassination of Tamer Ismail Qeisieh in Al-Dhahiriya,0,10,10
+65,Pogrom in Jalud,0,10,10
+66,Attacks and ethnic cleansing in Qusra,0,10,10
+67,Three Palestinians shot by Israeli forces’ gunfire in Arraba,0,10,10
+68,Raid and campaign of arrest on Qalandiya,1,10,8
+69,Ethnic cleansing of Jabal Jales area of Al-Khalil/Hebron,0,10,10
+70,Summary execution of Ahmed Ashqa (18) in Kabul (Palestine 48),0,2,10
+71,Raid and campaign of arrest in Qalqilya,1,10,8
+72,"Assassination of US-Palestinian Nasrallah Muhammad Jamal Abu Siam, 19 in Mukhmas",0,10,10
+73,Massacre of the Abu Hadayid family in Mawasi Khan Younis,0,10,10
+74,Massacre of Al-Rizq family in Al-Nasr (Gaza City),0,10,10
+75,Massacre of Al-Atbash family near Al-Abbas intersection,0,10,10
+76,Settler attack on a Christian family in Birzeit,0,10,10
+77,Recurring pogroms in Khillat al-Sidra area of Mukhmas,0,10,10
+78,Israeli soldiers storm a wedding hall in Al-Eizariya,0,10,10
+79,Night attack on school facilities in Jalud,0,10,10
+80,Siege on Al-Sila Al-Harithiya,1,10,9
+81,Raid on Birzeit University,1,10,9
+82,Settler assault on the village of Deir Jarir,0,10,10
+83,Military raid on Qalanqiya and Kafr Aqab,1,10,9
+84,Israeli raid on Palestinian universities (West Bank),1,10,9
+85,Violent settlers and soldiers attack in the Al-Khalayel area of Al-Mughayyir village,0,10,10
+86,Bloody pogrom in Khalayel al-Louz,0,10,10
+87,Extrajudicial executions during \"Operation Five Stones\" in Jenin,0,10,10
+88,"Summary execution of Amr al-Marbou, 18, and Sami Mashayekh, 16 in Kafr Aqab",0,10,10
+89,Summary execution of Abdul Rahman Darawsha,0,10,10
+90,"Summary execution of Jamil Atef Jamil Hanani, 17",0,10,10
+91,Pogroms in Al-Ladain area between Beit Lid and Kafr Qaddum,0,10,10
+92,House assaulted and set in fire during a raid on Aboud town,0,10,10
+93,Deadly raid in Awarta and Einabus,1,10,9
+94,Child Atta Mamoun Atta Mai drowned in a well,0,10,9
+95,Settlers’ attack on a pregnant woman and her children,0,10,10
+96,Gaza babies die from hypothermia (Winter 25-26),0,10,10
+97,demolition order at the historic gravesite,1,10,8
+98,Execution of two Palestinians in Hebron,0,10,10
+99,Demolition of a Palestinian-owned factory in Beit Ula,1,10,8
+100,Settler and soldier pressure on Beit Sahour community,0,10,9
+101,Unprecedented arrest campaign in the West Bank,1,10,9
+102,Raid on the Palestinian Union of Agricultural Work Committees,1,10,9
+103,Bloody pogrom in Khalayel al-Louz,0,10,10
+104,Extrajudicial executions during \"Operation Five Stones\" in Jenin,0,10,10
+105,Israeli settler vandalizing a Palestinian home in Silwad,1,10,8
+106,Extrajudicial execution of Sultan Nidal Abdel Aziz after besieging his house,0,10,10
+107,Israeli harassment of the al-Hadidiya Bedouin community,1,10,8
+108,Operation 'New Order' to restore governance in the Negev\",1,10,9
+109,Evacuation of a Palestinian cultural event in the Hakawati Theatre (Jerusalem),1,10,7
+110,Summary execution of Baraa Khairy Maali in Deir Jarir,0,10,10
+111,Settlers set five villas on fire in the village of Al-Lubban al-Sharqiya,0,10,10
+112,Settlers arson on a car scrapyard in Huwara,1,10,8
+113,Raid and detention campaign in Nablus governorate,1,10,9
+114,Raid and retaliation campaign after the \"Etzion operation\",1,10,9
+115,Massacre in Ain al-Hilweh refugee camp (South Lebanon),0,10,10
+116,Attack on journalist Fadi Yassin while covering a protest in Tulkarm,0,10,10
+117,Pogrom in Al-Jab’a village,0,10,10
+118,"Summary execution of Jad Jihad Jadallah, 14 y/o",0,10,10
+119,"Assassination of Hassan Mousa Sharkazi, 16 y/o",0,10,10
+120,Execution of the 2 children Muhammad Mahmoud Abu Ayyash et Bilal Bahaa Baaran,0,10,10
+121,Summary execution of Abdul Rahman Darawsha,0,10,10
+122,Israeli settlers set fire to a Palestinian home in Abu Falah,0,10,10
+123,"Dozens of journalists, activists, and PRCS crews assaulted by settlers in Beita",0,10,10
+124,Ethnic cleansing in Fasayil al-Wusta,0,10,10
+125,Summary execution of Muhammad Tayem and Muhammad Qasim near the apartheid wall,0,10,10
+126,Al-Muggayir under Closed Military Zone for 48 hours,1,10,6
+127,"Summary execution of Murad Fawzi Yousef Abu Seifen, 15 in Yamoun",0,10,10
+128,Promotion of the death penalty against Palestinian detainees in Israeli detention camps,0,10,10
+129,Murder of Ahmad Rebhi al-Atrash by a settler,0,10,10
+130,Blinding of a schoolboy in Beit Awwa,0,10,10
+131,Settler attacks on agricultural facilities in Samua (Hebron),1,10,8
+132,Assassination of Muhammad Bassam Al-Sha'our (20 y/o),0,10,10
+133,Military raid on commercial street in Al-Ram,1,10,9
+134,Dozens of settlers carried out a pogrom and set fire to properties in Al-Sidra (Mukhmas),0,10,10
+135,Assassination of Muhammad Abu Hanin (18) from Askar Camp,0,10,10
+136,Stealing home for an outpost in Sarora (Masafer Yatta),1,10,8
+137,Abduction and torture of 6 young Palestinians,0,10,10
+138,Israel kills 4 displaced at Al-Sardi school,0,10,10
+139,"Assassination of Majed Mohammad Dawood, 42 y/o in Al Ein RC",0,10,10
+140,Israeli forces raid Tubas in major retaliatory operation,1,10,9
+141,Bloody pogrom in Turmus Ayya during olive harvest,0,10,10
+142,Israel strikes car of the Abu Shaaban family, kills 11,0,10,10
+143,Assassination of Mahdi Ahmed Kamil 20y/o in Qabatiya,0,10,10
+144,Assassination of Mohammed Bahjat Al-Hallaq 9 y/o,0,10,10
+145,Abduction of a mother and her 7 y/o son in Al-Issawyia,0,10,10
+146,Release of Palestinian detainees under October ceasefire deal (West Bank),10,10,0
+147,Assassination of Muhammad Salama,0,10,10
+148,Pogrom in Beita at the start of the olive harvest,0,10,10
+149,Kafr Qaddum under attack and land theft,0,10,10
+150,3 people killed in Al-Zawayda,0,10,10
+151,Al-Nabaheen brothers killed while collecting firewood,0,10,10
+152,Massacre at the Shurrab family charity kitchen,0,10,10
+153,Massacre at the Ghabboun family house,0,10,10
+154,Olive harvest 2025 under attack (West Bank),1,10,8
+155,Israeli strike on press tent at Al-Aqsa Martyrs Hospital,0,10,10
+156,Water truck massacre on Al-Thalathini Street,0,10,10
+157,Falah school doule tap,0,10,10
+158,Abu Lahya family massacre,0,10,10
+159,Israel bombing of Al-Qarinawi family house,0,10,10
+160,Al-Sharfa family massacre,0,10,10
+161,Abu Rakab family massacre,0,10,10
+162,Israeli strike on tent in Nuseirat kills 7 people,0,10,10
+163,Assassination of Ahmed Jihad Brahma (21) during a raid on Anza village,0,10,10
+164,"Murder of Saeed Murad Al-Nassaan (20 y/o) by settlers in Al-Mughayyir",0,10,10
+165,Bombing of the Palestinian Medical Relief Society center in Gaza City,0,10,10
+166,Mass arrests and abuses in Anin,0,10,10
+167,Raid on Birzeit University,1,10,9
+168,Al-Jamla family decimated,0,10,10
+169,House besieged and attacked in Surda (Ramallah),0,10,10
+170,Israel bombs vehicle and massacres displaced people from Gaza City,0,10,10
+171,Israel massacres 4 people at Al-Hindi family house,0,10,10
+172,Shelling of Al-Rantisi hospital,0,10,10
+173,Israeli strike on a phone charging station in Gaza City,1,10,9
+174,Palestine Stadium tent massacre,0,10,10
+175,Mohammad Issa Alawi Killed by IDF soldier shot in Deir Jarir,0,10,10
+176,Israeli settlers attack Palestinian property in Atara, West Bank,1,10,8
+177,Attack of young man with Down Syndrom in Ein Yabrud,0,10,10
+178,Israel assassinates Hamas negotiators in attack on Qatar,0,10,10
+179,"Israeli settler attacks on a plant nursery in Deir Sharaf, West Bank",1,10,8
+180,IDF shoots 2 children dead in Jenin refugee camp,0,10,10
+181,Israeli carries out a retaliation campaign following the attack on an Israeli bus in East Jerusalem,1,10,9
+182,"IDF and Israeli settlers carry out a pogrom on the village of Al-Shuyukh, West Bank",0,10,10
+183,Israel summarily executes Ahmed Abdel Fattah Shehadeh at the Al-Murabba'a checkpoint,0,10,10
+184,Hyperviolent night Pogrom in Khalet al-Dabaa,0,10,10
+185,80 injured in an Israeli Raid on Nablus,0,10,10
+186,Bloody raid on Ramallah,0,10,10
+187,Besieged Palestinian resident by settlers in Biddu-Jabaa,0,10,10
+188,Ethnic cleansing of the Khirbet Ein al-Hilweh,0,10,10
+189,trike on Amr ibn al-Aas school,0,10,10
+190,Settler violence on Duma and Shukara communities,0,10,10
+191,Destruction of Dr. Ashraf Al-Ajaz's House,1,10,8
+192,Assassination of Hamdan Musa Muhammad Abu Aliya 18 y/o by Israeli soldiers,0,10,10
+193,"“Shaping operations” lands and farmers' properties (Khirbet Abu Falah, Al-Mughayyir and Turmus Ayya)",1,10,9
+194,Thameen Khalil Reda Dawabsheha assassination by Off-duty IDF soldier/settler in Duma,0,10,10
+195,Israel's annihilation of Gaza City ahead of occupation plans,0,10,10
+196,Assassination of Al-Jazeera crew at Al-Shifa hospital,0,10,10
+197,Ethnic cleansing of Ein Ayoub Bedouin community,0,10,10
+198,Demolition of a school under construction in the village of Aqaba,1,10,9
+199,Ethnic cleansing of Deir Hajla community,0,10,10
+200,Al-Masri family massacred at Faysal School,0,10,10
